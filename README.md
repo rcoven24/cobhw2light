@@ -1,1 +1,3 @@
-# cobhw2light
+---
+permalink: /index.html
+---
